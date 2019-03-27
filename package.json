@@ -1,0 +1,24 @@
+{
+  "name": "sgra-frontend",
+  "version": "1.0.0",
+  "description": "SGRA - Sistema de Gerenciamento de Requisitos Ambientais",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-3-2019-1/SGRA-Frontend.git"
+  },
+  "author": "Isaque Azevedo",
+  "bugs": {
+    "url": "https://github.com/dev-3-2019-1/SGRA-Frontend/issues"
+  },
+  "homepage": "https://github.com/dev-3-2019-1/SGRA-Frontend#readme",
+  "dependencies": {
+    "connect": "^3.6.6",
+    "serve-static": "^1.13.2",
+    "vue": "^2.6.10"
+  }
+}
